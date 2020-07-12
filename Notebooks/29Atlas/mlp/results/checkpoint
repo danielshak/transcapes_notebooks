@@ -1,0 +1,2 @@
+model_checkpoint_path: "training_50_epochs_64_32_3_1_modelweights"
+all_model_checkpoint_paths: "training_50_epochs_64_32_3_1_modelweights"

@@ -1,0 +1,1 @@
+These two files contain old gp analysis involving 3 axis. Computing gp predictions from mRNA, protein and gene length. Files are not changed to reflect different paths and hence will not run. Use for results and examples.
